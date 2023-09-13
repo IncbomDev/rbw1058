@@ -1,0 +1,12 @@
+name: rbw1058
+version: 1.0
+main: me.Incbom.rbw.Main
+api-version: 1.13
+commands:
+  mycommand:
+    description: mycommand
+    usage: '/mycmd'
+    aliases: [mycommand]
+    permission: me.main
+    permission-message: You do not have permission to use this command
+
